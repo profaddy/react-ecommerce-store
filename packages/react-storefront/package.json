@@ -59,7 +59,7 @@
     "globby": "^8.0.1",
     "jest": "^24.9.0",
     "jest-fetch-mock": "^1.5.0",
-    "jsdom": "^12.0.0",
+    "jsdom": "^16.5.0",
     "karma": "^2.0.0",
     "karma-babel-preprocessor": "^7.0.0",
     "karma-chrome-launcher": "^2.2.0",
